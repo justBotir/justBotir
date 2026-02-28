@@ -46,11 +46,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Qakhramoniy-hub&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Qakhramoniy-hub&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qakhramoniy-hub&theme=tokyonight&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qakhramoniy-hub&theme=tokyonight&hide_border=true&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qakhramoniy-hub&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Qakhramoniy-hub&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 🏆 GitHub Trophies
 
