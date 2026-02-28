@@ -56,6 +56,10 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Qakhramoniy-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
+---
+
+## 🐍 Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qakhramoniy-hub/Qakhramoniy-hub/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qakhramoniy-hub/Qakhramoniy-hub/output/github-snake.svg" />
