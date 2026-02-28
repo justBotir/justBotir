@@ -1,13 +1,16 @@
 # 💫 About Me:
 
 🙋🏻‍♂️ My name is Botir Qakhramoniy
+
 💬 I'm 20 years old developer from Uzbekistan/Khorezm<br>
 👨‍💻 Currently building projects and improving my Full-Stack skills<br>
 🎯 Open to Internship & Junior Developer Opportunities
 
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Botir_Qakhramoniy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/botir-raimboyev-650424370) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raimboyevbotir@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Botir_Qakhramoniy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/botir-raimboyev-650424370)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimboyevbotir@gmail.com)
 
 # 💻 Tech Stack:
 
