@@ -1,7 +1,6 @@
 # 💫 About Me:
 
 🙋🏻‍♂️ My name is Botir Qakhramoniy
-
 💬 I'm 20 years old developer from Uzbekistan/Khorezm<br>
 👨‍💻 Currently building projects and improving my Full-Stack skills<br>
 🎯 Open to Internship & Junior Developer Opportunities
