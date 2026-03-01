@@ -6,7 +6,7 @@
 👨‍💻 Currently building projects and improving my Full-Stack skills<br>
 🎯 Open to Internship & Junior Developer Opportunities
 
-## 🌐 Socials:
+## 🌐 Social:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Botir_Qakhramoniy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/botir-raimboyev-650424370)
