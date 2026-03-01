@@ -3,6 +3,7 @@
 🙋🏻‍♂️ My fullname is Botir Qakhramoniy. You can call me Botir
 
 💬 I'm 20-year-old developer from Uzbekistan/Khorezm<br>
+📚 Enjoy reading self-improvement books<br>
 👨‍💻 Currently building projects and improving my Full-Stack skills<br>
 🎯 Open to Internship & Junior Developer Opportunities
 
