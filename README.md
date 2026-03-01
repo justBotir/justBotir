@@ -48,8 +48,6 @@
 
 ## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-
 ![](https://github-readme-stats.vercel.app/api?username=Qakhramoniy-hub&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Qakhramoniy-hub&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qakhramoniy-hub&theme=tokyonight&hide_border=true&layout=compact)
