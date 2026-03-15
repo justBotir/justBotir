@@ -1,6 +1,6 @@
 # Hi 👋 I'm Botir
 
-💻 Backend Engineer · NestJS, PostgreSQL, Docker
+💻 Software Engineer
 🌍 Based in Uzbekistan
 📬 Open to opportunities
 
