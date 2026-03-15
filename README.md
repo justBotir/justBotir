@@ -56,7 +56,7 @@
 
 ## ⏱ WakaTime Stats
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=justBotir&layout=compact&theme=radical" />
 </p>
 
