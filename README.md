@@ -1,9 +1,9 @@
 # Hi 👋 I'm Botir
 
-💻 Software Engineer from Uzbekistan (Khorezm)
-🚀 Passionate about building scalable backend systems and modern web applications
-📚 Interested in system design, backend architecture, and problem-solving
-🎯 Currently focused on improving my skills and building real-world projects
+💻 Software Engineer from Uzbekistan (Khorezm) <br>
+🚀 Passionate about building scalable backend systems and modern web applications<br>
+📚 Interested in system design, backend architecture, and problem-solving<br>
+🎯 Currently focused on improving my skills and building real-world projects<br>
 
 ## 🌐 Connect with me
 
