@@ -1,4 +1,4 @@
-# Hi 👋 I'm Botir
+# Hi, I'm Botir
 
 💻 Software Engineer<br>
 🌍 Based in Uzbekistan<br>
