@@ -14,7 +14,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: Qakhramoniy-hub
+          github_user_name: justBotir
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
