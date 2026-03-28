@@ -32,7 +32,7 @@
 ## ⏱ WakaTime Stats
 
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=justBotir&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=justBotir&layout=compact&theme=tokyonight" />
 </p>
 
 ---
