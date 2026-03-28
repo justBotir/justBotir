@@ -31,8 +31,10 @@
 
 ## ⏱ WakaTime Stats
 
+## ⏱ WakaTime Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/wakatime?username=justBotir&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=justBotir&layout=compact&theme=tokyonight&hide_border=true&display_track=all" alt="WakaTime Stats" />
 </p>
 
 ---
