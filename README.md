@@ -31,10 +31,8 @@
 
 ## ⏱ WakaTime Stats
 
-<p align="start">
-  <a href="https://wakatime.com/@70cdaa49-a9fd-4124-8819-b76f63aa4187">
-    <img src="https://wakatime.com/badge/user/70cdaa49-a9fd-4124-8819-b76f63aa4187.svg?style=for-the-badge" alt="Total time coded since Nov 12 2025" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/wakatime?username=justBotir&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
 </p>
 
 ---
