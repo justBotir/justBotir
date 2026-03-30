@@ -25,15 +25,26 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=justBotir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=justBotir&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=justBotir&theme=tokyonight&hide_border=true&layout=compact)
-
-## ⏱ WakaTime Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-delta-two-79.vercel.app/api/wakatime?username=justBotir&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-delta-two-79.vercel.app/api?username=justBotir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-delta-two-79.vercel.app/api/top-langs/?username=justBotir&theme=tokyonight&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=justBotir&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-delta-two-79.vercel.app/api/wakatime?username=justBotir&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
